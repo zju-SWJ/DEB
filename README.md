@@ -1,4 +1,4 @@
-# Source-Free-Unsupervised-Domain-Adaptation-in-Imbalanced-Datasets
+# Source-Free Unsupervised Domain Adaptation in Imbalanced Datasets
 
 ## Notes
 
